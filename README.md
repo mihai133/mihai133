@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Name: Mihai Băncilă<br>Location: Bucharest, Romania<br><br>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning AI & Machine Learning</p>
+<p align="center">Name: Mihai Băncilă<br>Location: Bucharest, Romania<br><br> 🔭 I’m working as Frontend developer</p>
 
 ###
 
