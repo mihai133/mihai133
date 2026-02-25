@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Name: Mihai Băncilă<br>Location: Bucharest, Romania<br><br> 🔭 I’m working as Frontend developer</p>
+<p align="center">Name: Mihai Băncilă<br>Location: Bucharest, Romania<br><br> 🔭 I’m working as Frontend developer<br>Currently dev on <a href="https://github.com/mihaibancila-del" target="_blank">Secondary Github Account</a></p>
 
 ###
 
